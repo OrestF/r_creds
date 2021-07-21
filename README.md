@@ -1,5 +1,7 @@
 # RCreds
 
+# Repo is transfered to [coaxsowft/r_creds](https://github.com/coaxsoft/r_creds)
+
 RCreds makes working with Rails 5.2 credentials easier
 
 ## Installation
